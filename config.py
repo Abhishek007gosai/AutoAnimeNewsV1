@@ -6,5 +6,5 @@ BOT_TOKEN = "" #Bot Token get it from @BotFather
 URL_A = "https://www.animenewsnetwork.com/newsfeed/rss.xml?ann-edition=us" #News RSS Feed Url 2
 URL_B = "https://feeds.feedburner.com/crunchyroll/rss" #News RSS Feed Url 2
 START_PIC = "https://litter.catbox.moe/m4c4wu.jpg" #Startup Pic [Optional]
-MONGO_URI = "mongodb+srv://nier88881:8qLsalGiPAvbwKTP@cluster0.od2tq6h.mongodb.net/" #Databse uri get it from https://www.mongodb.com/
+MONGO_URI = "" #Databse uri get it from https://www.mongodb.com/
 ADMINS = [7654385403]
