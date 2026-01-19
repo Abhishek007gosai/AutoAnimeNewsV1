@@ -1,7 +1,5 @@
 # config.py
 
-import os
-
 API_ID = "29245477" #API ID get it from telegram.org
 API_HASH = "0abc83883262245c90ca337b7a0375c4"
 BOT_TOKEN = "8159731963:AAHflPblpC3mnTr1Jg907NXtMJYmVHWDn_g"
