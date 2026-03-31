@@ -7,4 +7,4 @@ URL_A = "https://www.theanimedaily.com/feed/" #News RSS Feed Url 2
 #URL_B = "" #News RSS Feed Url 2
 START_PIC = "" #Startup Pic [Optional]
 MONGO_URI = "mongodb+srv://nier88881:8qLsalGiPAvbwKTP@cluster0.od2tq6h.mongodb.net/" #Databse uri get it from https://www.mongodb.com/
-ADMINS = [8226767954]
+ADMINS = [8667251104]
