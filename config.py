@@ -6,5 +6,5 @@ BOT_TOKEN = "8747154145:AAGFbsMA_jvOkTt8_Sc1bcZErjZ0OYzouIE" #Bot Token get it f
 URL_A = "https://www.animenewsnetwork.com/newsfeed/rss.xml?ann-edition=us" #News RSS Feed Url 2
 #URL_B = "" #News RSS Feed Url 2
 START_PIC = "" #Startup Pic [Optional]
-MONGO_URI = "" #Databse uri get it from https://www.mongodb.com/
+MONGO_URI = "mongodb+srv://nier88881:8qLsalGiPAvbwKTP@cluster0.od2tq6h.mongodb.net/" #Databse uri get it from https://www.mongodb.com/
 ADMINS = [8667251104]
